@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Hibernate" type="hibernate">
+    <CLASSES>
+      <root url="jar://D:/Jar/hibernate-distribution-3.6.10.Final/hibernate3.jar!/" />
+      <root url="jar://D:/Jar/hibernate-distribution-3.6.10.Final/lib/required/dom4j-1.6.1.jar!/" />
+      <root url="jar://D:/Jar/hibernate-distribution-3.6.10.Final/lib/required/antlr-2.7.6.jar!/" />
+      <root url="jar://D:/Jar/hibernate-distribution-3.6.10.Final/lib/required/jta-1.1.jar!/" />
+      <root url="jar://D:/Jar/hibernate-distribution-3.6.10.Final/lib/required/commons-collections-3.1.jar!/" />
+      <root url="jar://D:/Jar/hibernate-distribution-3.6.10.Final/lib/required/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://D:/Jar/hibernate-distribution-3.6.10.Final/lib/required/javassist-3.12.0.GA.jar!/" />
+      <root url="jar://D:/Jar/hibernate-distribution-3.6.10.Final/lib/jpa/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+      <root url="jar://D:/Jar/hibernate-distribution-3.6.10.Final/lib/optional/c3p0/c3p0-0.9.1.jar!/" />
+      <root url="jar://D:/Jar/slf4j-1.7.2/slf4j-log4j12-1.7.2.jar!/" />
+      <root url="jar://D:/Jar/slf4j-1.7.2/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://D:/Jar/apache-log4j-1.2.16/log4j-1.2.16.jar!/" />
+      <root url="jar://D:/Jar/SSH/hibernate_3/mysql-connector-java-5.1.45-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
